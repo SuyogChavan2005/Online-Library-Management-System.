@@ -13,7 +13,7 @@
 <style type="text/css">
   .left_box
   {
-    height: 640px;
+    height: 660px;
     width: 500px;
     float: left;
     background-color: #8ecdd2;
@@ -21,7 +21,7 @@
   }
   .left_box2
   {
-    height: 640px;
+    height: 660px;
     width: 300px;
     background-color: #537890;
     border-radius: 20px;
@@ -50,7 +50,7 @@
   }
   .right_box
   {
-    height: 640px;
+    height: 660px;
     width: 1139px;
     background-color: #8ecdd2;
     margin-left: 380px;
@@ -59,7 +59,7 @@
   }
   .right_box2
   {
-    height: 640px;
+    height: 660px;
     width: 700px;
     margin-top: -20px;
     padding: 20px;
