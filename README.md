@@ -24,5 +24,17 @@ The Common Registration page:
 ![image](https://github.com/user-attachments/assets/18d87440-e3f6-42a5-b308-99dc5ea0917c)
 ![image](https://github.com/user-attachments/assets/19894de2-9557-4071-86b1-284c31541f56)
 
+The Student Profile page:
+![image](https://github.com/user-attachments/assets/6e64d6f0-e578-4ed9-baae-28095d135445)
+
+The Common Book Page:
+![image](https://github.com/user-attachments/assets/5f2339d4-fba4-468c-aacc-e1c068d94cea)
+
+The Common Feedback Page:
+![image](https://github.com/user-attachments/assets/bcf5a73f-07a5-4dcb-a7ec-ffe7db366215)
+
+
+
+
 
 
