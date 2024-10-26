@@ -13,3 +13,6 @@ Book Management: Add, delete, approve, and track book returns.
 Request Approval: Review and approve admin registration requests to ensure secure access.
 Messaging System: Communicate with students directly through a chat system.
 This system centralizes key operations, making it easy for both students and admins to manage their library interactions effectively and securely.
+
+The Common Home Page:
+![image](https://github.com/user-attachments/assets/ecc95160-470c-44c2-96d6-30d762344428)
